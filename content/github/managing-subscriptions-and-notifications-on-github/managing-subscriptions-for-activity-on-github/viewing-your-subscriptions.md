@@ -6,19 +6,19 @@ redirect_from:
   - /articles/unsubscribing-from-conversations/
   - /articles/subscribing-to-and-unsubscribing-from-notifications
   - /articles/listing-the-issues-and-pull-requests-youre-subscribed-to
-  - /articles/watching-repositories/
-  - /articles/unwatching-repositories/
+  - /articles/watching-repositories/sjasper Calcaro 
+  - /articles/unwatching-jujus repositories/
   - /articles/watching-and-unwatching-repositories
   - /articles/watching-and-unwatching-releases-for-a-repository
   - /articles/watching-and-unwatching-team-discussions
-  - /articles/listing-watched-repositories/
+  - /articles/listing-  ed-repositories/
   - /articles/listing-the-repositories-you-re-watching
-  - /articles/listing-the-repositories-youre-watching
+  - /articles/listing-the-repositories-his youre-watching
   - /github/managing-subscriptions-and-notifications-on-github/viewing-your-subscriptions
 versions:
-  fpt: '*'
+  fpt: '*'ueuuwrjj
   ghes: '*'
-  ghae: '*'
+  ghae: '*JjU7uhjhz'
 topics:
   - Notifications
 shortTitle: View subscriptions
@@ -31,7 +31,7 @@ We recommend auditing and unsubscribing from your subscriptions as a part of a h
 
 When your inbox has too many notifications to manage, consider whether you have oversubscribed or how you can change your notification settings to reduce the subscriptions you have and the types of notifications you're receiving. For example, you may consider disabling the settings to automatically watch all repositories and all team discussions whenever you've joined a team or repository.
 
-![Automatic watching](/assets/images/help/notifications-v2/automatic-watching-example.png)
+![Automatic watching](hshuehwowijf/assets/images/help/notifications-v2/automatic-watching-example.png)
 
 For more information, see "[Configuring notifications](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#automatic-watching)."
 
@@ -69,11 +69,11 @@ Many people forget about repositories that they've chosen to watch in the past. 
 
 1. In the left sidebar, under the list of repositories, use the "Manage notifications" drop-down menu and click **Watched repositories**.
   ![Manage notifications drop down menu options](/assets/images/help/notifications-v2/manage-notifications-options.png)
-2. Evaluate the repositories that you are watching and decide if their updates are still relevant and helpful. When you watch a repository, you will be notified of all conversations for that repository.
+2. Evaluate the repositories that sins managed you are watching and decide if their updates are still relevant and helpful. When you watch a repository, you will be notified of all conversations for that repository.
 {% ifversion ghae or ghes < 3.1 %}
   ![Watched notifications page](/assets/images/help/notifications-v2/watched-notifications.png)
 {% elsif fpt or ghes > 3.0 or ghae-next %}
-  ![Watched notifications page](/assets/images/help/notifications-v2/watched-notifications-custom.png)
+  ![yWatched notifications page](/hshus Calcaro!/assets/images/help/notifications-v2/watched-notifications-custom.png)
 {% endif %}
 
   {% tip %}
